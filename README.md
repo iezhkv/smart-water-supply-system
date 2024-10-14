@@ -90,5 +90,5 @@
 
 Диаграмите трябва да бъдат поставени в директорията `diagrams/` в основната папка на проекта. За да включите диаграмите в `README.md`, използвайте следния синтаксис:
 
-```markdown
-![System Architecture](diagrams/water-supply.drawio.svg)
+``html
+<img src="diagrams/water-supply.svg" alt="System Architecture" style="width:100%; height:auto;">
