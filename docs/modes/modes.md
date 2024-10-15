@@ -40,7 +40,7 @@
 - Резервоарът се е напълнил, което води до преминаване към Режим 1.
 - Налягането във водопровода спада, което води до преминаване към Режим 3.
   
-<img src="/diagrams/mode_use_supply.svg" alt="Alt text" style="max-width: 200px;" />
+<img src="/diagrams/mode_use_supply.svg" alt="Alt text" style="width: 400px;" />
 
 ##### Активни клапани:
 
@@ -72,7 +72,7 @@
 - Консумацията на вода спира, което води до преминаване към Режим 4.
 - Налягането във водопровода се възстановява, което води до връщане към Режим 2.
 
-<img src="/diagrams/mode_mixed_supply.svg" alt="Alt text" style="max-width: 200px;" />
+<img src="/diagrams/mode_mixed_supply.svg" alt="Alt text" style="width: 400px;" />
 
 ##### Активни клапани:
 
@@ -102,7 +102,7 @@
 - Резервоарът се е напълнил, което води до преминаване към Режим 1 или Режим 2.
 - Налягането във водопровода се възстановява, което води до връщане към Режим 2.
 
-<img src="/diagrams/mode_fill_tank.svg" alt="Alt text" style="max-width: 200px;" />
+<img src="/diagrams/mode_fill_tank.svg" alt="Alt text" style="width: 400px;" />
 
 ##### Активни клапани:
 
