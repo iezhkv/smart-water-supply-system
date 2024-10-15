@@ -10,7 +10,7 @@
 ##### Причина за изключване:
 - Нивото на резервоара пада под минималното, което води до преминаване към Режим 2.
   
-<img src="/diagrams/mode_use_tank.svg" alt="Alt text" style="max-width: 400px; width: 100%;" />
+<img src="/diagrams/mode_use_tank.svg" alt="Alt text" style="max-width: 200px; width: 100%;" />
 
 
 ##### Активни клапани:
