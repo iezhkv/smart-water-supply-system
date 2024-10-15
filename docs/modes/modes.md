@@ -40,7 +40,7 @@
 - Резервоарът се е напълнил, което води до преминаване към Режим 1.
 - Налягането във водопровода спада, което води до преминаване към Режим 3.
   
-<img src="/diagrams/mode_use_supply.svg" alt="Alt text" style="max-width: 400px; width: 100%;" />
+<img src="/diagrams/mode_use_supply.svg" alt="Alt text" style="max-width: 400px;" />
 
 ##### Активни клапани:
 
