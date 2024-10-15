@@ -102,6 +102,6 @@
 ##### Неактивни клапани:
 
 - **Клапан 1 `valve_supply_to_tank`** Затворен.
-- **Клапан 2 `valve_spring_to_tank`**Затворен.
+- **Клапан 2 `valve_spring_to_tank`** Затворен.
 - **Клапан 6 `valve_tank_to_pump`** Затворен.
 - **Клапан 7 `valve_pump_to_building`** Затворен, защото няма консумация.
